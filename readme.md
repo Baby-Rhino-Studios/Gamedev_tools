@@ -40,7 +40,7 @@
 * [LibGDX](https://libgdx.com/)
 * [Pixi.js](https://www.pixijs.com/)
 * [Phaser](https://phaser.io/)
-* 
+* [GameMaker Studio 2](https://www.yoyogames.com/en/gamemaker)
 
 ## Audio
 * [Audacity](https://www.audacityteam.org/)
